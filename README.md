@@ -1,4 +1,4 @@
-# Financial Time Series Analysis — Homework 1 (Reproducible Project)
+# Financial Time Series Analysis — Homework 1
 
 This project reproduces the numerical results (test statistics, p-values, and confidence intervals) used in the Homework 1 write-up.
 
